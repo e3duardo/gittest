@@ -1,4 +1,5 @@
 primeira linha do meu arquivo
-segunda linha do meu arquivo
+mudei a segunda linha do meu arquivo
 terceira linha do meu arquivo
+adicionei isso aqui
 quarta linha do meu arquivo
